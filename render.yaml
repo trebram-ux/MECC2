@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mcoop-db
+    name: mpu-backend
     env: python
     plan: free
     region: Singapore (Southeast Asia)
